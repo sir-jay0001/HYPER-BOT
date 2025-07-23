@@ -55,7 +55,8 @@ Our AI features use random APIs to run, so sometimes they may be down.
   
 ## ` Pair onrender`
 <p align="centre">
-<a href="https://hyper-session.onrender.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<a href="https://hyper-session.onrender.com/">
+  <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_HYPER_SESSION-000000?style=for-the-badge&logo=hyperbot&logoColor=white&color=skyblue" width="260" height="50"/>
 <p/>
 
 
