@@ -59,6 +59,14 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <p/>
             
 
+## `Deploy to Railway`
+<p align="center">
+  <a href="https://railway.app?">
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
+  </a>
+</p>
+
+
 ###  ` Deploy to Heroku`
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/sir-jay0001/HYPER-BOT/">
