@@ -55,7 +55,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
   
 ## `PAIRING CODE`
 <p align="centre">
-<a href="raven-session-production.up.railway.app/">
+<a href="https://raven-session-production.up.railway.app">
   <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_HYPER_SESSION-000000?style=for-the-badge&logo=hyperbot&logoColor=white&color=skyblue" width="260" height="50"/>
 <p/>
 
