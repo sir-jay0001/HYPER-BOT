@@ -7,7 +7,7 @@
   
 <p align="center">
 
-[![Nick Hunter](https://github.com/sir-jay0001.png?lenght=50width=50)](https://github.com/sir-jay0001)
+[![Sir jay0001](https://github.com/sir-jay0001.png?lenght=50width=50)](https://github.com/sir-jay0001)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=HYPER+WHATSAPP+BOT" alt="">
