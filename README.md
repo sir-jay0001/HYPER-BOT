@@ -57,8 +57,14 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <p align="centre">
 <a href="https://hyper-session.onrender.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
-            
 
+
+<p align="center">
+  <a href="https://render.com">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>
+
+          
 ## `Deploy to Railway`
 <p align="center">
   <a href="https://railway.app?">
