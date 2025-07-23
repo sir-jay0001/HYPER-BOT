@@ -62,7 +62,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 ###  ` Deploy to Heroku`
 <p align="center">
      <a href="https://verify-me-umber.vercel.app/">
-       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
+       <img src="https://www.herokucdn.com/deploy/button.svg=https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/jay-ai-bot" alt="Deploy to Heroku"/>
      </a>
  </p>
  
