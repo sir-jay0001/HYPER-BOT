@@ -60,8 +60,8 @@ Our AI features use random APIs to run, so sometimes they may be down.
             
 
 ###  ` Deploy to Heroku`
-<p align="center"
-       <a href="https://dashboard.heroku.com/new?template=https://github.com/sir-jay0001/HYPER-BOT">
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/sir-jay0001/HYPER-BOT/">
        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
      </a>
  </p>
