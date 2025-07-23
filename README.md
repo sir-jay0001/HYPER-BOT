@@ -60,7 +60,8 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ###  ` Deploy to Heroku`
 <p align="center">
-     <a href="https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/jay-ai-bot=https://www.herokucdn.com/deploy/button.svg"
+     <a
+       <img src="https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/jay-ai-bot=https://www.herokucdn.com/deploy/button.svg"
      </a>
  </p>
  
