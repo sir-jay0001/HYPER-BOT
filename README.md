@@ -6,7 +6,8 @@
 </p>
   
 <p align="center">
-<a href="https://files.catbox.moe/vev67n.jpg"><a/>
+<a 
+  <img srch="https://files.catbox.moe/vev67n.jpg"><a/>
 
 [![Sir jay0001](https://github.com/sir-jay0001.png?lenght=50width=50)](https://github.com/sir-jay0001)
 </p>
@@ -61,7 +62,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 ###  ` Deploy to Heroku`
 <p align="center">
      <a
-       <img src="https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/jay-ai-bot=https://www.herokucdn.com/deploy/button.svg"/>
+       <img src="https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/jay-ai-bot=https://www.herokucdn.com/deploy/button.svg" alt="Delploy to heroku"/>
      </a>
  </p>
  
