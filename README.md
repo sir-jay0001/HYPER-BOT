@@ -7,7 +7,7 @@
   
 <p align="center">
 <a 
-  <img srch="https://files.catbox.moe/vev67n.jpg"><a/>
+  <img src="https://files.catbox.moe/vev67n.jpg"/>
 
 [![Sir jay0001](https://github.com/sir-jay0001.png?lenght=50width=50)](https://github.com/sir-jay0001)
 </p>
@@ -61,7 +61,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ###  ` Deploy to Heroku`
 <p align="center"
-      <a href="https://verify-me-umber.vercel.app/">
+       <a href="https://dashboard.heroku.com/new?template=https://github.com/sir-jay0001/HYPER-BOT">
        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
      </a>
  </p>
