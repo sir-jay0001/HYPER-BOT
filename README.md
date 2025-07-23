@@ -47,26 +47,26 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
  SET-UP
 
-## ` Fork this repo`
+## `FORK THIS REPO`
 <p align="centre">
 <a href="https://github.com/sir-jay0001/HYPER-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK HYPER-BOT" width="160"></a>
 <p/>
 
   
-## ` Pair onrender`
+## `PAIRING CODE`
 <p align="centre">
 <a href="https://hyper-session.onrender.com/">
   <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_HYPER_SESSION-000000?style=for-the-badge&logo=hyperbot&logoColor=white&color=skyblue" width="260" height="50"/>
 <p/>
 
-
+## `DEPLOY ON RENDER`
 <p align="center">
   <a href="https://render.com">
     <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
   </a>
 
           
-## `Deploy to Railway`
+## `DEPLOY ON RAILWAY`
 <p align="center">
   <a href="https://railway.app?">
     <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
@@ -74,7 +74,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 </p>
 
 
-###  ` Deploy to Heroku`
+###  ` DEPLOY ON HEROKU`
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/sir-jay0001/HYPER-BOT/">
        <img title="DEPLOY HYPER BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
